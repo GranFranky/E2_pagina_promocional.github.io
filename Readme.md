@@ -1,5 +1,5 @@
 # MF0952_2-E2-GITHUB PAGES
-Ejercicio de evaluación del módulo MF0952_2
+Ejercicio E2 de evaluación del módulo MF0952_2
 
 Autor: Fco. Javier Perez
 Fecha: 17/06/2019
